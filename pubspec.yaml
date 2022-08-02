@@ -38,7 +38,6 @@ dependencies:
   latlong: ^0.6.1
   flutter_map: any
   # syncfusion_flutter_maps: ^20.2.40
-  flutter_map_marker_cluster: any
 
   firebase_auth:
   firebase_core:
